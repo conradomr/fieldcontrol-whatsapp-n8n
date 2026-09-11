@@ -2,6 +2,8 @@
 
 Integração entre o Field Control (gestão de ordens de serviço) e o WhatsApp, usando n8n como motor de automação. Desenvolvido para empresas de assistência técnica.
 
+> **Projeto desenvolvido entre 04/06/2026 e 17/06/2026.**
+
 ## O que faz
 
 | Gatilho | Ação automática |
